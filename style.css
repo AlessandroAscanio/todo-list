@@ -1,0 +1,23 @@
+.container {
+  max-width: 400px;
+}
+
+input[type=text],
+input[type=text]:focus {
+  color: #000000;
+  border: none;
+  background: #fff;
+  max-width: 400px;
+}
+
+.todos-container li {
+  background: #fff
+}
+
+.delete {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
